@@ -1,3 +1,6 @@
+React with GraphQL query and pagniation example, hookified, from The Road to GraphQL by Robin Wieruch
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
